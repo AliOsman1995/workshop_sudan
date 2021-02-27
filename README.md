@@ -20,4 +20,4 @@ The practice was to do the next steps:
 |:-----------:|:-------:|:----:|
 | Abdurrahman |   Taha  |   ENG   |
 | Abdurrahman 
-|  AliOsman|   ENG |
+|  AliOsman|   Ali|
